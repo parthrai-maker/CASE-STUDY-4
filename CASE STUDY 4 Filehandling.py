@@ -1,3 +1,8 @@
+//Nmae :Parth rai
+//Roll no. : 202501100700202
+//Branch : ECE
+//Section : B
+
 import os
 
 # --- Task 1: Basic File Reading ---
